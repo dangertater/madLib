@@ -66,9 +66,4 @@ console.log(
 		thirdPlug() +
 		", follow your gut don't think of the consequences."
 )
-
-//pooooop
-
-//asdf
-
-//asdff
+//test
